@@ -1,0 +1,48 @@
+-----------Exception Details on  5/17/2024 10:20:22 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 5/17/2024 10:20:22 AM
+
+Error Line No : pleted)
+
+Error Message: Attempted to divide by zero.
+
+Exception Type: System.DivideByZeroException
+
+Error Location : DivideByZeroException
+
+ Error Page Url: 
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  5/17/2024 10:22:18 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 5/17/2024 10:22:18 AM
+
+Error Line No : pleted)
+
+Error Message: One of the identified items was in an invalid format.
+
+Exception Type: System.FormatException
+
+Error Location : FormatException
+
+ Error Page Url: 
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
